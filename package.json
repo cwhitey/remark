@@ -48,6 +48,8 @@
       , "clojure"
       , "http"
       , "haskell"
+      , "erlang"
+      , "elixir"
       ]
     }
   }
